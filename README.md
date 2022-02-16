@@ -1,7 +1,7 @@
 ## Ola!! Seja bem vindo ao meu Git Hub
 <div align="center">
   <a href="https://github.com/moises52771">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moises52771&show_icons=true&theme=dracula&include_all_commits=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moises52771&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moises52771&layout=compact&langs_count=8&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
