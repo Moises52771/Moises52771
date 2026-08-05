@@ -1,4 +1,4 @@
-## Ola!! Seja bem vindo ao meu Git Hub
+## Ola!! Seja bem vindo!
 <div align="center">
   <a href="https://github.com/moises52771">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moises52771&show_icons=true&theme=dracula&include_all_commits=false&count_private=true"/>
